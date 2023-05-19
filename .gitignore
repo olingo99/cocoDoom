@@ -4,3 +4,6 @@ __pycache__
 runs
 yolo
 yolo.zip
+data
+datatest
+*.zip
