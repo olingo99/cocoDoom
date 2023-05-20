@@ -93,7 +93,11 @@ names:
   91: Ua
   92: Va
   93: Wa
-path: /kaggle/input/cocodoom/data
-test: images/run3
+# path: /kaggle/input/cocodoom/data
+# test: images/run3
+# train: images/run1
+# val: images/run2
+
+path: /Users/engel/Documents/cocoDoom/datatest
 train: images/run1
-val: images/run2
+val: images/run1

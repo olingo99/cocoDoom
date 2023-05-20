@@ -1,7 +1,7 @@
 cocoDoomData
 cocoDoomDataFull
 __pycache__
-runs
+runslocal/detect/predict*
 yolo
 yolo.zip
 data
